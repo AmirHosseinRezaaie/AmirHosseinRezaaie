@@ -24,6 +24,12 @@
 <br />
 
 <h2>Contact with me:</h2>
-<a> 
-  <img src>
+<a href="https://instagram.com/amir_hosein122333"> 
+  <img src="[https://search.eitaa.com/?url=https://github.com/AmirHosseinRezaaie/AmirHosseinRezaaie/blob/main/icons8-instagram-logo-96.png?raw=true](https://github.com/AmirHosseinRezaaie/AmirHosseinRezaaie/blob/main/icons8-instagram-logo-96.png?raw=true)">
+</a>
+<a href="https://search.eitaa.com/?url=https://www.linkedin.com/in/amirhoseinrezaaie?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_app"> 
+  <img src="https://search.eitaa.com/?url=https://github.com/AmirHosseinRezaaie/AmirHosseinRezaaie/blob/main/icons8-instagram-logo-96.png?raw=true">
+</a>
+<a href="https://t.me/amirhossein122333"> 
+  <img src="[https://search.eitaa.com/?url=https://github.com/AmirHosseinRezaaie/AmirHosseinRezaaie/blob/main/icons8-instagram-logo-96.png?raw=true](https://github.com/AmirHosseinRezaaie/AmirHosseinRezaaie/blob/main/icons8-telegram-96.png?raw=true)">
 </a>
