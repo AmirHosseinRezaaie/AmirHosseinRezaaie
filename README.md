@@ -30,3 +30,6 @@
 <a href="https://t.me/amirhossein122333"> 
   <img src="https://github.com/AmirHosseinRezaaie/AmirHosseinRezaaie/blob/main/icons8-telegram-96.png?raw=true">
 </a>
+<a href="https://gmail.com/ah.rezaaie@gmail.com">
+  <img src="https://github.com/AmirHosseinRezaaie/AmirHosseinRezaaie/blob/main/icons8-gmail-96.png?raw=true">
+</a>
