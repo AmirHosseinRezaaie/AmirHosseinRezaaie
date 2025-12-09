@@ -1,16 +1,13 @@
-## Hi there 👋
+# سلام، من امیرحسین رضایی هستم 👋
 
-**AmirHosseinRezaaie/AmirHosseinRezaaie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Front-end / Full-stack Developer** | عاشق ساختن تجربه‌های کاربری سریع و زیبا ⚡
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirHosseinRezaaie&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+```ts
+const amir = {
+  pronouns: "He" | "Him",
+  location: "Tehran, Iran",
+  currently: "در حال توسعه پروژه‌های شخصی و فریلنس",
+  learning: ["Next.js 15", "TypeScript", "Tailwind CSS", "Three.js"],
+  askMeAbout: ["React", "Next.js", "UI/UX", "Performance"],
+  openTo: "کار remote / full-time / همکاری در پروژه‌های جذاب"
+}
