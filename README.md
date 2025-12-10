@@ -22,7 +22,7 @@
 
 <br />
 
-<h2>Hi There! I'm Mohammad Amin Saeedi Rad 🖐</h2>
+<h2>Hi There! I'm Amirhossein Rezaaie 🖐</h2>
 
 <h3>👨‍💻 &nbsp; About Me</h3>
 
