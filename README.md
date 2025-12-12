@@ -27,7 +27,7 @@
 - 🎓 &nbsp; Student of Iran University of Science and Technology
 - 💼 &nbsp; Working as a Front-End developer
 - 🌱 &nbsp; Learning Datastracture
-- ✍️ &nbsp; Coding And Drinking Coffee Are My Hobby :))
+- 😉 &nbsp; Coding And Drinking Coffee Are My Hobby :))
 
 <h2>🔧 &nbsp; Tech Stack</h2>
 
