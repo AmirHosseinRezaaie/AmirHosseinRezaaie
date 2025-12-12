@@ -85,3 +85,7 @@
 ![َAmir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirHosseinRezaaie&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinRezaaie&layout=compact&theme=tokyonight&hide_border=true)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,prisma,mongodb,postgres,docker,git,github,vscode,&perline=10" />
+</p>
