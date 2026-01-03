@@ -111,6 +111,17 @@
 -->
 ![Amir's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AmirHosseinRezaaie?theme=tokyonight)
 
+## 🚀 Featured Projects
+
+- 🔹 **Data Structures in C**
+  - پیاده‌سازی Heap، BST، Red-Black Tree
+  - 📌 Language: C
+  - 🔗 [View Repository](#)
+
+- 🔹 **Frontend Portfolio**
+  - طراحی صفحات ریسپانسیو با HTML/CSS/JS
+  - 🔗 [Live Demo](#)
+  - 
 <!--
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
