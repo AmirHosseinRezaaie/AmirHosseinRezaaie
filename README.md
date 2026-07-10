@@ -34,15 +34,15 @@
 ## 🛠 Tech Stack & Skills
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,ts,sqlite,&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,ts,&perline=8"/>
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 ### Frontend & UI
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,&perline=8"/>
+<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,&perline=8"/>
 
 ### Tools & Others
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,matlab,&perline=8"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,matlab,sqlite,mysql,&perline=8"/>
 
 <!--
 ### Backend & Databases
